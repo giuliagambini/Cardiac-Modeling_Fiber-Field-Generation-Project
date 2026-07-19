@@ -19,7 +19,7 @@ The workflow follows an incremental approach to validate the fiber generation al
 ## How To Run
 The project's code is organized in a modular sctructure to facilitate the use, it was originally implemented in Colab. 
 In order to use it:
-1. Ensure the mesh files '_lv_epi_0.stl_' and '_lv_epi_0.stl_' are in the directory (necessary for the realistic left ventricle mesh)
+1. Ensure the mesh files '_lv_epi_0.stl_' and '_lv_endo_0.stl_' are in the directory (necessary for the realistic left ventricle mesh)
 2. Run the script, obtain the images, interactive plots, GIFs, videos and output '.vtu' files that can be visualized using ParaView.
 
 3. ## Results
