@@ -27,3 +27,8 @@ Visualizations of the fiber fields and activation maps, available in the `result
 
 ## Acknowledgments
 The ventricular mesh used in this study was sourced from [https://zenodo.org/] and processed for Firedrake compatibility.
+
+Author
+Giulia Gambini University of Trento
+Email: giulia.gambini@studenti.unitn.it
+LinkedIn: Giulia Gambini
