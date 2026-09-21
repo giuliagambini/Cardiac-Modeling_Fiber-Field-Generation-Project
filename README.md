@@ -23,7 +23,7 @@ In order to use it:
 2. Run the script, obtain the images, interactive plots, GIFs, videos and output '.vtu' files that can be visualized using ParaView.
 
 3. ## Results
-Visualizations of the fiber fields and activation maps are available in the `results/` folder.
+Visualizations of the fiber fields and activation maps, available in the `results/` folder.
 
 ## Acknowledgments
 The ventricular mesh used in this study was sourced from [https://zenodo.org/] and processed for Firedrake compatibility.
